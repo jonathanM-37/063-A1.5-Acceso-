@@ -1,4 +1,4 @@
-package com.example.a063a5acceso.ui.theme
+package com.example.a063a15acceso.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

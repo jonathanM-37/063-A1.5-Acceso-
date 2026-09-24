@@ -1,4 +1,4 @@
-package com.example.a063a5acceso
+package com.example.a063a15acceso
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -133,7 +133,7 @@ fun PantallaLogin(
             },
 
             placeholder = {
-                Text("Ej. 23270063")
+                Text("23270063")
             },
 
             keyboardOptions = KeyboardOptions(

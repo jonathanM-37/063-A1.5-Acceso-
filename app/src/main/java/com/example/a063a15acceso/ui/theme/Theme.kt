@@ -1,6 +1,5 @@
-package com.example.a063a5acceso.ui.theme
+package com.example.a063a15acceso.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
